@@ -164,6 +164,10 @@ nav {
   padding: 20px 0;
 }
 
+#categories {
+  padding-bottom: 25px;
+}
+
 .content-right {
   display: flex;
 }
@@ -190,4 +194,9 @@ nav {
 
 .content-left .text {
   padding-right: 45px;
+}
+
+.contact-section ul {
+  padding: 0; 
+  list-style-type:none
 }
