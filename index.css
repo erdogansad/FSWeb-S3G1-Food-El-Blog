@@ -163,3 +163,31 @@ nav {
 #about-us {
   padding: 20px 0;
 }
+
+.content-right {
+  display: flex;
+}
+
+.content-right img {
+  height: 15rem;
+  float: left;
+}
+
+.content-right .text {
+  padding-left: 25px;
+}
+
+.content-left {
+  display: flex;
+  flex-direction:row-reverse;
+  padding: 70px 0;
+}
+
+.content-left img {
+  height: 20rem;
+  
+}
+
+.content-left .text {
+  padding-right: 45px;
+}
